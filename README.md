@@ -26,7 +26,7 @@ I've spent ten years on both sides of the startup table.
 
 At **Stoic Scratch Labs**, I build the tools I wish I'd had in both seats: agent workflows, enrichment pipelines, and research systems that help SMB owners and startup founders put AI to work across sales, marketing, and partnerships.
 
-**Open to:** venture investment, partnerships, and GTM leadership roles. Based in Berlin; open to roles in the GCC, US, and Europe.
+**Open to:** venture investment, partnerships, and GTM leadership roles. Based between Dubai, DC, and Berlin; open to roles in the GCC, US, and Europe.
 
 ---
 
