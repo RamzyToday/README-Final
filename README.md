@@ -67,20 +67,20 @@ I believe in communities and the people who build them. Across cities, I've crea
 
 ---
 
-## Research
+- ## Research
 
-I was the kid who took things apart just to see how they worked. Later, that turned into breaking down the X's and O's of American football, first as a player, then as a coach. After a short run in equity research, I moved into venture capital, where my curiosity finally had room to roam.
+I was the kid who took things apart just to see how they worked. Later that turned into breaking down the X's and O's of American football, first as a player and then as a coach. After a short run in equity research, I landed in venture capital, and that's where my curiosity finally had room to roam. 
 
-Early in my work in the UAE, I couldn't connect the stories I was hearing with the primary data I was finding and trying to build solutions to help the ecosystem:
+Early in my work in the UAE, I couldn't connect the stories I was hearing versus the primary data I was finding and trying to build solutions to help the ecosystem:
 
-StartupUAE (2015): Built the first Slack community to connect UAE startups across Emirates, a digital home for MENA founders, hackers, investors, and advocates outside the usual forums. It brought in people from across the region and the diaspora, hit #1 on Product Hunt for almost 14 hours (until Product Hunt stopped accepting Slack communities), and Wamda later launched its own version, a good sign the format worked.
+- **[StartupUAE](https://www.producthunt.com/products/startup-uae/launches/startup-uae) (2015):** Built the first Slack community for connecting the UAE startups across Emirates, a digital home for MENA founders, hackers, investors, and advocates outside the usual forums. It brought in people from across the region and the diaspora, hit #1 on Product Hunt for almost 14 hours (until Product Hunt stopped accepting Slack communities), and Wamda later launched its own version, a good sign the format worked. 
 
-Menascapes (2015-16), cited by Forbes and McKinsey: Before MAGNiTT, PitchBook, and Dealroom made regional data a few clicks away, I co-founded Menascapes with Sharif El-Badawi (then Google's partner lead for VCs and startups) as a volunteer, community-sourced map of the MENA startup ecosystem. I did the research alongside leading Flat6Labs Abu Dhabi, combining MENA PE association data, Wamda, Arabnet research, and conversations with investors and founders, and published it as Data on Venture Capital in the Middle East, with a focus on the UAE.
-
-Forbes (2016): Used our figures, including 100+ active funds, 75+ accelerators, and $1B+ in available venture capital, to show how fast the region was growing.
-TechWadi (2016): Sharif presented Menascapes as the first webinar for TechWadi's Silicon Valley-based Arab founder and investor network.
-McKinsey (2018): Used our map of incubators, accelerators, and co-working spaces across 10 countries in Entrepreneurship in the Middle East and North Africa.
-Data on Venture Capital in the Middle East (2016): My own deep dive into MENA venture capital, focused on the UAE, done while I was growing my role at Flat6Labs Abu Dhabi. I pulled together MENA PE association data, Wamda research, and conversations with investors and founders, before MAGNiTT, PitchBook, and Dealroom made regional data available. I presented the final data to ADIC in the UAE.
+- **Menascapes (2015-16), cited by Forbes and McKinsey:** Before MAGNiTT, PitchBook, and Dealroom made regional data a few clicks away, I co-founded Menascapes with Sharif El-Badawi (then Google's partner lead for VCs and startups) as a volunteer, community-sourced map of the MENA startup ecosystem. I did the research alongside leading Flat6Labs Abu Dhabi, combining MENA PE association data, Wamda, Arabnet research, and conversations with investors and founders, and published it as [Data on Venture Capital in the Middle East](https://medium.com/@ramzyis/data-on-venture-capital-in-the-middle-east-d9004230ebc4), with a focus on the UAE.
+  - **[Forbes](https://www.forbes.com/sites/elizabethmacbride/2016/01/18/seeking-untapped-market-nearly-100-investment-funds-emerge-in-middle-east-tech-scene/) (2016):** Used our figures, including 100+ active funds, 75+ accelerators, and $1B+ in available venture capital, to show how fast the region was growing.
+  - **[TechWadi](https://www.youtube.com/live/cjagBu23I6A) (2016):** Sharif presented Menascapes as the first webinar for TechWadi's Silicon Valley-based Arab founder and investor network.
+  - **[McKinsey](https://www.mckinsey.com/~/media/mckinsey/featured%20insights/Middle%20East%20and%20Africa/How%20investors%20can%20support%20entrepreneurship%20in%20the%20Middle%20East%20and%20North%20Africa/Entrepreneurship-in-the-Middle-East-and-North-Africa.ashx) (2018):** Used our map of incubators, accelerators, and co-working spaces across 10 countries in *Entrepreneurship in the Middle East and North Africa*.
+  
+- **[Data on Venture Capital in the Middle East](https://medium.com/@ramzyis/data-on-venture-capital-in-the-middle-east-d9004230ebc4) (2016):** My own deep dive into MENA venture capital with a focus on the UAE, done while growing my role at Flat6Labs Abu Dhabi. I pulled together MENA PE association data, Wamda research, and conversations with investors and founders, back before MAGNiTT, PitchBook, and Dealroom made regional data was available. Final data was presented to ADIC in UAE.
 
 
 
