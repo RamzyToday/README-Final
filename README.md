@@ -21,7 +21,7 @@ Co-Founder, Stoic Scratch Labs
 I've spent ten years on both sides of the startup table.
 
 - **As an investor**, I backed 50 early-stage companies across Techstars and Flat6Labs in the US, Europe, and MENA.
-- **As an operator**, I was a senior GTM hire at two venture-backed startups, including Clara Technologies (acquired 2026), where I built the partner channel from 21% to 37% of revenue.
+- **As an operator**, I was a senior GTM hire at two venture-backed startups in the US and UAE.
 - **As a founder**, I co-founded Stoic Scratch Labs, Venuable (RVA Lighthouse Labs Accelerator, Cohort 1), BetaPetas, and the StartupUAE community.
 
 At **Stoic Scratch Labs**, I build the tools I wish I'd had in both seats: agent workflows, enrichment pipelines, and research systems that help SMB owners and startup founders put AI to work across sales, marketing, and partnerships.
