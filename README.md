@@ -52,61 +52,6 @@ timeline
 
 ---
 
-## Investment record
-
-50 early-stage investments across four accelerator programs on three continents, 2015 to 2022.
-
-| Metric | Value |
-|---|---|
-| **Companies backed** | 50, with founders from 17 countries |
-| **Follow-on capital raised by the portfolio** | $65M+ in publicly disclosed rounds |
-| **Acquisitions** | 3, with buyers including NielsenIQ and AB InBev's ZX Ventures |
-| **Still operating, pivoted, or exited** | 24 of 50 (48%) |
-| **MENA-origin companies** | 17 |
-
-| Program | Year | Companies | Still operating or exited | Capital raised since |
-|---|---|---|---|---|
-| Flat6Labs Abu Dhabi (3 cycles) | 2015 to 2016 | 18 | 5 | $8.6M |
-| Techstars Connection, New York (with AB InBev) | 2016 | 10 | 4 | $21.0M |
-| Techstars Dubai (Area 2071) | 2018 | 10 | 6 | $12.6M |
-| Techstars Equitech, Baltimore | 2022 | 12 | 9 | $22.8M |
-
-```mermaid
-pie showData
-    title Portfolio outcomes as of September 2026
-    "Acquired" : 3
-    "Scaling" : 5
-    "Operating" : 9
-    "Pivoted or rebranded" : 7
-    "Dormant or closed" : 26
-```
-
-### Highlights
-
-**Exits**
-- **Gastrograph AI** (Analytical Flavor Systems, Techstars 2016): acquired by NielsenIQ in April 2025, after a Series A co-led by Leawood VC and Global Brain and a strategic round from Sony.
-- **Intelligent Layer** (Techstars 2016): acquired by ZX Ventures, AB InBev's innovation arm and the program's own corporate partner.
-
-**Breakouts**
-- **Washmen** (Flat6Labs 2015): the fastest company out of Flat6Labs Abu Dhabi to raise. Its $6.2M Series B was led by AddVenture with Henkel as a strategic investor, and the CEO reported its first profitable year in 2023.
-- **Octi, now Ultraviolet Social** (Techstars 2016): raised $12M from Live Nation, AB InBev, Bold Capital and others, the largest raise in the portfolio.
-- **Paperstack** (Techstars 2022): $10.4M raised and $30M+ originated to e-commerce and CPG brands, with sub-1% defaults.
-- **EcoMap Technologies** (Techstars 2022): $10.4M raised to map and measure 100+ entrepreneurial ecosystems.
-- **Klasha** (Techstars Dubai 2018): pivoted into cross-border payments. Its $2.4M seed was led by Greycroft and extended by Amex Ventures in Amex's first African investment.
-- **Natufia Labs** (Techstars Dubai 2018): relocated to Saudi Arabia on a $3.5M Series A led by the KAUST Innovation Fund.
-- **Narrativa** (Flat6Labs 2016): pivoted into generative AI for pharma regulatory writing and relocated to Santa Monica.
-
-**Founders who went on to build**
-- **Abdulhamid Hassan** (Skylar Labs, Flat6Labs Abu Dhabi 2016) went on to found Mono, Africa’s open-banking infrastructure company. It raised $17.6M from Tiger Global, General Catalyst, and Y Combinator, and Flutterwave acquired it in 2026.
-- **Cody Candee** (Intelligent Layer, Techstars 2016) founded Bounce, a global luggage-storage network spanning 4,000+ cities. It raised $34.2M from Andreessen Horowitz, General Catalyst, and Sapphire Sport.
-- **Valerie Konde** (Collectionair, Flat6Labs Abu Dhabi 2015) co-founded Pemo, the Dubai-based spend management platform. It raised $19M from Shorooq, Cherry Ventures, and Augmentum Fintech. 
-
-**Investor to operator.** I backed EQL Finance in Techstars Equitech's inaugural 2022 class, then joined the company as its first commercial hire.
-
-<sub>Figures reflect publicly disclosed funding as of September 2026. Companies with undisclosed rounds are counted at zero, so totals understate capital raised.</sub>
-
----
-
 ## Shipped work
 
 | Project | What it does | Stack | Status |
@@ -201,6 +146,59 @@ Data on Venture Capital in the Middle East (2016): My own deep dive into MENA ve
 | **Certifications** | [AWS Certified AI Business Strategist (2026)](https://www.credly.com/badges/2378787c-e42f-439f-913b-bb10c3e25a3a/public_url), Pendo AI for Product Management (2025) |
 
 ---
+
+## Institutional Investment record
+
+50 early-stage investments across four accelerator programs on three continents, 2015 to 2022.
+
+| Metric | Value |
+|---|---|
+| **Companies backed** | 50, with founders from 17 countries |
+| **Follow-on capital raised by the portfolio** | $65M+ in publicly disclosed rounds |
+| **Acquisitions** | 3, with buyers including NielsenIQ and AB InBev's ZX Ventures |
+| **Still operating, pivoted, or exited** | 24 of 50 (48%) |
+| **MENA-origin companies** | 17 |
+
+| Program | Year | Companies | Still operating or exited | Capital raised since |
+|---|---|---|---|---|
+| Flat6Labs Abu Dhabi (3 cycles) | 2015 to 2016 | 18 | 5 | $8.6M |
+| Techstars Connection, New York (with AB InBev) | 2016 | 10 | 4 | $21.0M |
+| Techstars Dubai (Area 2071) | 2018 | 10 | 6 | $12.6M |
+| Techstars Equitech, Baltimore | 2022 | 12 | 9 | $22.8M |
+
+```mermaid
+pie showData
+    title Portfolio outcomes as of September 2026
+    "Acquired" : 3
+    "Scaling" : 5
+    "Operating" : 9
+    "Pivoted or rebranded" : 7
+    "Dormant or closed" : 26
+```
+
+### Highlights
+
+**Exits**
+- **Gastrograph AI** (Analytical Flavor Systems, Techstars 2016): acquired by NielsenIQ in April 2025, after a Series A co-led by Leawood VC and Global Brain and a strategic round from Sony.
+- **Intelligent Layer** (Techstars 2016): acquired by ZX Ventures, AB InBev's innovation arm and the program's own corporate partner.
+
+**Breakouts**
+- **Washmen** (Flat6Labs 2015): the fastest company out of Flat6Labs Abu Dhabi to raise. Its $6.2M Series B was led by AddVenture with Henkel as a strategic investor, and the CEO reported its first profitable year in 2023.
+- **Octi, now Ultraviolet Social** (Techstars 2016): raised $12M from Live Nation, AB InBev, Bold Capital and others, the largest raise in the portfolio.
+- **Paperstack** (Techstars 2022): $10.4M raised and $30M+ originated to e-commerce and CPG brands, with sub-1% defaults.
+- **EcoMap Technologies** (Techstars 2022): $10.4M raised to map and measure 100+ entrepreneurial ecosystems.
+- **Klasha** (Techstars Dubai 2018): pivoted into cross-border payments. Its $2.4M seed was led by Greycroft and extended by Amex Ventures in Amex's first African investment.
+- **Natufia Labs** (Techstars Dubai 2018): relocated to Saudi Arabia on a $3.5M Series A led by the KAUST Innovation Fund.
+- **Narrativa** (Flat6Labs 2016): pivoted into generative AI for pharma regulatory writing and relocated to Santa Monica.
+
+**Founders who went on to build**
+- **Abdulhamid Hassan** (Skylar Labs, Flat6Labs Abu Dhabi 2016) went on to found Mono, Africa’s open-banking infrastructure company. It raised $17.6M from Tiger Global, General Catalyst, and Y Combinator, and Flutterwave acquired it in 2026.
+- **Cody Candee** (Intelligent Layer, Techstars 2016) founded Bounce, a global luggage-storage network spanning 4,000+ cities. It raised $34.2M from Andreessen Horowitz, General Catalyst, and Sapphire Sport.
+- **Valerie Konde** (Collectionair, Flat6Labs Abu Dhabi 2015) co-founded Pemo, the Dubai-based spend management platform. It raised $19M from Shorooq, Cherry Ventures, and Augmentum Fintech. 
+
+**Investor to operator.** I backed EQL Finance in Techstars Equitech's inaugural 2022 class, then joined the company as its first commercial hire.
+
+<sub>Figures reflect publicly disclosed funding as of September 2026. Companies with undisclosed rounds are counted at zero, so totals understate capital raised.</sub>
 
 **Recruiters and hiring teams:** the fastest way to reach me is [email](mailto:Ramzytoday@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ramzyis/).
 
