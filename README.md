@@ -87,69 +87,6 @@ Early in my work in the UAE, I couldn't connect the stories I was hearing versus
 
 ---
 
-## Shipped work
-
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| **`job-search-workflow`** | 7-phase career coaching pipeline: CV audit, rewrite, gap analysis, company research, interview prep, strategy | Claude Skills | Shipped |
-| **`loop-architecture`** | Pre-build design pass for agentic systems using a 5-ring loop taxonomy, so agents are designed before they're coded | Claude Skills | Shipped |
-| **`finding-your-unknowns`** | 4-move pre-flight check that surfaces hidden assumptions before any build starts | Claude Skills | Shipped |
-| **`write-clearly`** | Clear-writing framework (after Edward T. Thompson) that auto-triggers on application and outreach copy | Claude Skills | Shipped |
-| **GTM Systems Library** | Outbound and partner GTM for B2B startups entering the US and GCC: enrichment, sequencing, WhatsApp-first and PDPL-safe LinkedIn motions, full SOP set | Clay, n8n, WhatsApp Business API, Notion | In use |
-| **MENA Signal Pipeline** | Turns raw WhatsApp community exports into a funding and regulation signal report, with a Notion regulatory register that new exports append to | Claude, Notion API | In progress |
-| **MENA AI Consumer Operating Model** | 12-tab, 10,000+ formula operating model for AI subscription businesses across three Middle East markets: two-tier churn, Saudization and GOSI, Zakat, three scenarios | Excel | Shipped |
-| **AI-Native Job Search System** | Role-specific CVs, cover letters, referral mapping, and outreach drafts generated from one locked fact sheet | Claude, Gmail MCP | In use |
-| **PATCH NYC Hackathon 2025** | Terminal-style financial data tool for SMBs | TypeScript | Hackathon |
-
-
----
-
-## How I build
-
-1. **Find the unknowns first.** Every build starts with a pre-flight check on assumptions, constraints, and what "done" means.
-2. **Design the loop before the agent.** Map inputs, decisions, feedback, and failure modes before writing a prompt.
-3. **Measure the delta.** Trace logs, error analysis, and before-and-after measurement, or it didn't happen.
-4. **Make it multiplayer.** Tools should work for a team, not just for me.
-5. **Ship in public.** Work that lives in a private doc can't help anyone else.
-
-## RAM_OS: the system behind the work
-
-A set of Claude Skills, live MCP connections, and protocols that let one operator run like a small team.
-
-```mermaid
-flowchart LR
-    subgraph Sources["Data sources (MCP)"]
-        A[Apollo] & B[Clay] & C[Gmail / Calendar] & D[Google Drive]
-    end
-    subgraph Brain["Reasoning layer"]
-        E[Claude + Claude Skills]
-        F[Unknowns Protocol<br/>pre-flight check]
-        G[Loop Architecture<br/>5-ring agent design]
-    end
-    subgraph Memory["Knowledge + execution"]
-        H[(Notion<br/>knowledge layer)]
-        I[Linear<br/>kanban]
-        J[Vercel<br/>deploys]
-    end
-    Sources --> E
-    F --> E
-    G --> E
-    E --> H & I & J
-    H -. context .-> E
-```
----
-
-## Toolbox
-
-| Layer | Tools |
-|---|---|
-| **AI and agents** | Claude, Claude Code, Claude Skills, MCP, Lovable, Replit |
-| **GTM data and automation** | Apollo, Clay, n8n, WhatsApp Business API, HubSpot, Salesforce |
-| **Knowledge and ops** | Notion, Linear, Google Workspace, Vercel |
-| **Certifications** | [AWS Certified AI Business Strategist (2026)](https://www.credly.com/badges/2378787c-e42f-439f-913b-bb10c3e25a3a/public_url), Pendo AI for Product Management (2025) |
-
----
-
 ## Institutional Investment Record
 
 50 early-stage investments across four accelerator programs on three continents, 2015 to 2022.
@@ -202,6 +139,75 @@ pie showData
 **Investor to operator.** I backed EQL Finance in Techstars Equitech's inaugural 2022 class, then joined the company as its first commercial hire.
 
 <sub>Figures reflect publicly disclosed funding as of September 2026. Companies with undisclosed rounds are counted at zero, so totals understate capital raised.</sub>
+
+
+---
+
+## Recently Shipped workflows
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **`job-search-workflow`** | 7-phase career coaching pipeline: CV audit, rewrite, gap analysis, company research, interview prep, strategy | Claude Skills | Shipped |
+| **`loop-architecture`** | Pre-build design pass for agentic systems using a 5-ring loop taxonomy, so agents are designed before they're coded | Claude Skills | Shipped |
+| **`finding-your-unknowns`** | 4-move pre-flight check that surfaces hidden assumptions before any build starts | Claude Skills | Shipped |
+| **`write-clearly`** | Clear-writing framework (after Edward T. Thompson) that auto-triggers on application and outreach copy | Claude Skills | Shipped |
+| **GTM Systems Library** | Outbound and partner GTM for B2B startups entering the US and GCC: enrichment, sequencing, WhatsApp-first and PDPL-safe LinkedIn motions, full SOP set | Clay, n8n, WhatsApp Business API, Notion | In use |
+| **MENA Signal Pipeline** | Turns raw WhatsApp community exports into a funding and regulation signal report, with a Notion regulatory register that new exports append to | Claude, Notion API | In progress |
+| **MENA AI Consumer Operating Model** | 12-tab, 10,000+ formula operating model for AI subscription businesses across three Middle East markets: two-tier churn, Saudization and GOSI, Zakat, three scenarios | Excel | Shipped |
+| **AI-Native Job Search System** | Role-specific CVs, cover letters, referral mapping, and outreach drafts generated from one locked fact sheet | Claude, Gmail MCP | In use |
+| **PATCH NYC Hackathon 2025** | Terminal-style financial data tool for SMBs | TypeScript | Hackathon |
+
+---
+
+## RAM_OS: the system behind the work
+
+A set of Claude Skills, live MCP connections, and protocols that let one operator run like a small team.
+
+```mermaid
+flowchart LR
+    subgraph Sources["Data sources (MCP)"]
+        A[Apollo] & B[Clay] & C[Gmail / Calendar] & D[Google Drive]
+    end
+    subgraph Brain["Reasoning layer"]
+        E[Claude + Claude Skills]
+        F[Unknowns Protocol<br/>pre-flight check]
+        G[Loop Architecture<br/>5-ring agent design]
+    end
+    subgraph Memory["Knowledge + execution"]
+        H[(Notion<br/>knowledge layer)]
+        I[Linear<br/>kanban]
+        J[Vercel<br/>deploys]
+    end
+    Sources --> E
+    F --> E
+    G --> E
+    E --> H & I & J
+    H -. context .-> E
+```
+---
+
+## Toolbox
+
+| Layer | Tools |
+|---|---|
+| **AI and agents** | Claude, Claude Code, Claude Skills, MCP, Lovable, Replit |
+| **GTM data and automation** | Apollo, Clay, n8n, WhatsApp Business API, HubSpot, Salesforce |
+| **Knowledge and ops** | Notion, Linear, Google Workspace, Vercel |
+| **Certifications** | [AWS Certified AI Business Strategist (2026)](https://www.credly.com/badges/2378787c-e42f-439f-913b-bb10c3e25a3a/public_url), Pendo AI for Product Management (2025) |
+
+---
+
+## How I build ATM 
+
+1. **Find the unknowns first.** Every build starts with a pre-flight check on assumptions, constraints, and what "done" means.
+2. **Design the loop before the agent.** Map inputs, decisions, feedback, and failure modes before writing a prompt.
+3. **Measure the delta.** Trace logs, error analysis, and before-and-after measurement, or it didn't happen.
+4. **Make it multiplayer.** Tools should work for a team, not just for me.
+5. **Ship in public.** Work that lives in a private doc can't help anyone else.
+---
+---
+
+## Recruiters, founders and angels
 
 **Recruiters and hiring teams:** the fastest way to reach me is [email](mailto:Ramzytoday@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ramzyis/).
 
