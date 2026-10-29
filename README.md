@@ -150,7 +150,7 @@ flowchart LR
 
 ---
 
-## Institutional Investment record
+## Institutional Investment Record
 
 50 early-stage investments across four accelerator programs on three continents, 2015 to 2022.
 
