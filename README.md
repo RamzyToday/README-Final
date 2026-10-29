@@ -56,52 +56,6 @@ timeline
 
 ---
 
-## Shipped work
-
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| **`job-search-workflow`** | 7-phase career coaching pipeline: CV audit, rewrite, gap analysis, company research, interview prep, strategy | Claude Skills | Shipped |
-| **`loop-architecture`** | Pre-build design pass for agentic systems using a 5-ring loop taxonomy, so agents are designed before they're coded | Claude Skills | Shipped |
-| **`finding-your-unknowns`** | 4-move pre-flight check that surfaces hidden assumptions before any build starts | Claude Skills | Shipped |
-| **`write-clearly`** | Clear-writing framework (after Edward T. Thompson) that auto-triggers on application and outreach copy | Claude Skills | Shipped |
-| **GTM Systems Library** | Outbound and partner GTM for B2B startups entering the US and GCC: enrichment, sequencing, WhatsApp-first and PDPL-safe LinkedIn motions, full SOP set | Clay, n8n, WhatsApp Business API, Notion | In use |
-| **MENA Signal Pipeline** | Turns raw WhatsApp community exports into a funding and regulation signal report, with a Notion regulatory register that new exports append to | Claude, Notion API | In progress |
-| **MENA AI Consumer Operating Model** | 12-tab, 10,000+ formula operating model for AI subscription businesses across three Middle East markets: two-tier churn, Saudization and GOSI, Zakat, three scenarios | Excel | Shipped |
-| **AI-Native Job Search System** | Role-specific CVs, cover letters, referral mapping, and outreach drafts generated from one locked fact sheet | Claude, Gmail MCP | In use |
-| **PATCH NYC Hackathon 2025** | Terminal-style financial data tool for SMBs | TypeScript | Hackathon |
-
-### Next up
-
----
-
-## RAM_OS: the system behind the work
-
-A set of Claude Skills, live MCP connections, and protocols that let one operator run like a small team.
-
-```mermaid
-flowchart LR
-    subgraph Sources["Data sources (MCP)"]
-        A[Apollo] & B[Clay] & C[Gmail / Calendar] & D[Google Drive]
-    end
-    subgraph Brain["Reasoning layer"]
-        E[Claude + Claude Skills]
-        F[Unknowns Protocol<br/>pre-flight check]
-        G[Loop Architecture<br/>5-ring agent design]
-    end
-    subgraph Memory["Knowledge + execution"]
-        H[(Notion<br/>knowledge layer)]
-        I[Linear<br/>kanban]
-        J[Vercel<br/>deploys]
-    end
-    Sources --> E
-    F --> E
-    G --> E
-    E --> H & I & J
-    H -. context .-> E
-```
-
----
-
 ## Community
 
 I believe in communities and the people who build them. Across cities, I've created spaces where founders and investors connect:
@@ -128,6 +82,25 @@ TechWadi (2016): Sharif presented Menascapes as the first webinar for TechWadi's
 McKinsey (2018): Used our map of incubators, accelerators, and co-working spaces across 10 countries in Entrepreneurship in the Middle East and North Africa.
 Data on Venture Capital in the Middle East (2016): My own deep dive into MENA venture capital, focused on the UAE, done while I was growing my role at Flat6Labs Abu Dhabi. I pulled together MENA PE association data, Wamda research, and conversations with investors and founders, before MAGNiTT, PitchBook, and Dealroom made regional data available. I presented the final data to ADIC in the UAE.
 
+
+
+---
+
+## Shipped work
+
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **`job-search-workflow`** | 7-phase career coaching pipeline: CV audit, rewrite, gap analysis, company research, interview prep, strategy | Claude Skills | Shipped |
+| **`loop-architecture`** | Pre-build design pass for agentic systems using a 5-ring loop taxonomy, so agents are designed before they're coded | Claude Skills | Shipped |
+| **`finding-your-unknowns`** | 4-move pre-flight check that surfaces hidden assumptions before any build starts | Claude Skills | Shipped |
+| **`write-clearly`** | Clear-writing framework (after Edward T. Thompson) that auto-triggers on application and outreach copy | Claude Skills | Shipped |
+| **GTM Systems Library** | Outbound and partner GTM for B2B startups entering the US and GCC: enrichment, sequencing, WhatsApp-first and PDPL-safe LinkedIn motions, full SOP set | Clay, n8n, WhatsApp Business API, Notion | In use |
+| **MENA Signal Pipeline** | Turns raw WhatsApp community exports into a funding and regulation signal report, with a Notion regulatory register that new exports append to | Claude, Notion API | In progress |
+| **MENA AI Consumer Operating Model** | 12-tab, 10,000+ formula operating model for AI subscription businesses across three Middle East markets: two-tier churn, Saudization and GOSI, Zakat, three scenarios | Excel | Shipped |
+| **AI-Native Job Search System** | Role-specific CVs, cover letters, referral mapping, and outreach drafts generated from one locked fact sheet | Claude, Gmail MCP | In use |
+| **PATCH NYC Hackathon 2025** | Terminal-style financial data tool for SMBs | TypeScript | Hackathon |
+
+
 ---
 
 ## How I build
@@ -138,6 +111,31 @@ Data on Venture Capital in the Middle East (2016): My own deep dive into MENA ve
 4. **Make it multiplayer.** Tools should work for a team, not just for me.
 5. **Ship in public.** Work that lives in a private doc can't help anyone else.
 
+## RAM_OS: the system behind the work
+
+A set of Claude Skills, live MCP connections, and protocols that let one operator run like a small team.
+
+```mermaid
+flowchart LR
+    subgraph Sources["Data sources (MCP)"]
+        A[Apollo] & B[Clay] & C[Gmail / Calendar] & D[Google Drive]
+    end
+    subgraph Brain["Reasoning layer"]
+        E[Claude + Claude Skills]
+        F[Unknowns Protocol<br/>pre-flight check]
+        G[Loop Architecture<br/>5-ring agent design]
+    end
+    subgraph Memory["Knowledge + execution"]
+        H[(Notion<br/>knowledge layer)]
+        I[Linear<br/>kanban]
+        J[Vercel<br/>deploys]
+    end
+    Sources --> E
+    F --> E
+    G --> E
+    E --> H & I & J
+    H -. context .-> E
+```
 ---
 
 ## Toolbox
@@ -195,7 +193,7 @@ pie showData
 - **Natufia Labs** (Techstars Dubai 2018): relocated to Saudi Arabia on a $3.5M Series A led by the KAUST Innovation Fund.
 - **Narrativa** (Flat6Labs 2016): pivoted into generative AI for pharma regulatory writing and relocated to Santa Monica.
 
-**Founders who went on to build**
+**Founders who went on to scale**
 - **Abdulhamid Hassan** (Skylar Labs, Flat6Labs Abu Dhabi 2016) went on to found Mono, Africa’s open-banking infrastructure company. It raised $17.6M from Tiger Global, General Catalyst, and Y Combinator, and Flutterwave acquired it in 2026.
 - **Cody Candee** (Intelligent Layer, Techstars 2016) founded Bounce, a global luggage-storage network spanning 4,000+ cities. It raised $34.2M from Andreessen Horowitz, General Catalyst, and Sapphire Sport.
 - **Valerie Konde** (Collectionair, Flat6Labs Abu Dhabi 2015) co-founded Pemo, the Dubai-based spend management platform. It raised $19M from Shorooq, Cherry Ventures, and Augmentum Fintech. 
