@@ -36,7 +36,7 @@ At **Stoic Scratch Labs**, I build the tools I wish I'd had in both seats: agent
 timeline
     title Investor to operator to founder
     2015 : Flat6Labs Abu Dhabi : Founding Program Director : 18 investments, 85% follow-on
-    2016 : Techstars : Investment Principal, EMEA Portfolio Lead : 32 investments, 90+ startups supported
+    2016 : Techstars : First person promoted to Investment Principal, EMEA Portfolio Lead : 32 investments, 90+ startups supported
     2022 : EQL Finance : B2B Growth Lead : Equifax Accelerate Venture Product Studio Award, blue chip US VCs
     2024 : Clara Technologies : Head of Venture GTM and Partnerships : acquired Q1 2026
     2026 : Stoic Scratch Labs : Co-Founder : AI-native GTM studio
