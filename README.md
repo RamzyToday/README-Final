@@ -2,7 +2,7 @@
 
 # Ramzy Jamal Ismail
 
-**Investor, operator, and founder. 50 early-stage investments, a partner channel built to 37% of revenue, and AI-native GTM tools in production.**
+**Investor, founder, operator.**
 
 Co-Founder, Stoic Scratch Labs
 
