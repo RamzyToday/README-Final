@@ -82,6 +82,7 @@ Early in my work in the UAE, I couldn't connect the stories I was hearing versus
   
 - **[Data on Venture Capital in the Middle East](https://medium.com/@ramzyis/data-on-venture-capital-in-the-middle-east-d9004230ebc4) (2016):** My own deep dive into MENA venture capital with a focus on the UAE, done while growing my role at Flat6Labs Abu Dhabi. I pulled together MENA PE association data, Wamda research, and conversations with investors and founders, back before MAGNiTT, PitchBook, and Dealroom made regional data was available. Final data was presented to ADIC in UAE.
 
+- **[Updated Data on Venture Capital in the Middle East](Soon) (2026):** 2026 10 year update and review.
 
 
 ---
