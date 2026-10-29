@@ -42,13 +42,17 @@ timeline
     2026 : Stoic Scratch Labs : Co-Founder : AI-native GTM studio
 ```
 
-**Clara Technologies (2024 to 2026).** Built Clara Accelerate, a partner program of 20+ accelerators, VCs, and venture studios that grew from 21% to 37% of revenue and lifted partner-sourced pipeline and client onboarding. Built the referral playbook for Hub71 and other partners and ran customer success for all clients. Clara was acquired in Q1 2026.
+**Operational Experience **
 
-**EQL Finance (2022 to 2024).** First commercial hire. Closed partnerships with Equifax and Baltimore Gas and Electric to expand embedded financial access for AI underwriting and lending in underserved communities.
+- **Clara Technologies (2024 to 2026).** Built Clara Accelerate, a partner program of 20+ accelerators, VCs, and venture studios that grew from 21% to 37% of revenue and lifted partner-sourced pipeline and client onboarding. Built the referral playbook for Hub71 and other partners and ran customer success for all clients. Clara was acquired in Q1 2026.
 
-**Techstars (2016 to 2022).** Techstars' first Investment Principal. Led 32 investments and launched three accelerator investment programs in New York, Baltimore, and the UAE (Area 2071, Dubai). Ran portfolio services for 90+ startups and scaled EMEA portfolio services across 15 accelerator programs from Berlin.
+- **EQL Finance (2022 to 2024).** First commercial hire. Closed partnerships with Equifax and Baltimore Gas and Electric to expand embedded financial access for AI underwriting and lending in underserved communities.
 
-**Flat6Labs Abu Dhabi (2015 to 2016).** Founding Program Director. Co-built the UAE's first equity-based seed program and a $10M seed fund with twofour54. Made 18 investments across three cycles, including Washmen and [Unnyhog](https://www.ycombinator.com/companies/unnyhog), Abu Dhabi's first Y Combinator company.
+**Investment Experience **
+
+- **Techstars (2016 to 2022).** Techstars' first Investment Principal. Led 32 investments and launched three accelerator investment programs in New York, Baltimore, and the UAE (Area 2071, Dubai). Ran portfolio services for 90+ startups and scaled EMEA portfolio services across 15 accelerator programs from Berlin.
+
+- **Flat6Labs Abu Dhabi (2015 to 2016).** Founding Program Director. Co-built the UAE's first equity-based seed program and a $10M seed fund with twofour54. Made 18 investments across three cycles, including Washmen and [Unnyhog](https://www.ycombinator.com/companies/unnyhog), Abu Dhabi's first Y Combinator company.
 
 ---
 
