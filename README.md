@@ -217,3 +217,61 @@ flowchart LR
 <sub>Always building, testing, and fiddling with things.</sub>
 </div>
 
+
+## Appendix
+
+## 4. Writing, Fellowships & Etc
+
+- **Awards:** Equifax Venture Product Studio Award (Recognized for AI-driven underwriting platform integration).
+- **Fellowships:** OnDeck Fellow (ODF2), Laconia Capital Venture Fellow, Yale SOM Pre-MBA Leadership Program, GMU Social Enterprise Fellow
+- **Featured Industry Insights:**
+    - *The Operator’s Playbook to Ecosystem-Led Growth*
+    - *Navigating Cross-Border Venture Between North America and MENA*
+
+## 5. Media Coverage, Research & Press Archive
+
+### **Global & US Ecosystem Leadership (Techstars Equitech / Baltimore)**
+
+- **Technical.ly Baltimore:** Techstars Equitech Leadership Announcement
+- **Baltimore Business Journal:** Leaders Announced for Techstars Baltimore Program
+- **Technical.ly:** Techstars Equitech Cohort Accelerator Overview
+- **Techstars Newsroom:** Techstars Equitech Accelerator Announces Powerhouse Venture Team
+
+### **MENA Venture & Acceleration (Techstars Dubai & Flat6Labs Abu Dhabi)**
+
+- **Forbes:** Seeking Untapped Market: Nearly 100 Investment Funds Emerge in Middle East Tech Scene
+- **Wamda:** Investissement capital-risque en hausse MENA | MENA Cashes In: Report Shows VC Money Rising
+- **ZDNet:** Abu Dhabi’s First Tech Accelerator Opens Its Doors
+- **Arabian Business:** A Picture-Perfect Accelerator
+- **MAGNiTT:** Flat6Labs Abu Dhabi First Demo Day | Techstars Dubai Demo Day Partnership
+- **Gulf Business:** Dubai’s GINCO, Techstars Establish Accelerator
+- **My Startup World:** GINCO Launches Techstars Dubai Accelerator in Area 2071
+- **MenaBytes:** Techstars Dubai First Class Announcement
+- **The Startup Scene:** 9 Companies Pitched Techstars Dubai Demo Day | Techstars Opens First MENA Accelerator
+- **Tech in Africa:** Culmination of Techstars Dubai Accelerator Program
+- **Techpoint Africa:** Techpoint and Techstars Host African Developers in Berlin
+
+### **Research Reports & Ecosystem Analysis**
+
+- **Wamda / Autopsy:** *When Startups Fail: A First Look Into the Causes of Startup Failure in the MENA Region*
+    
+    Read on Autopsy | Read on Medium
+    
+- **OC&C Strategy Consultants / Wamda:** *Tech Entrepreneurship Ecosystem in the United Arab Emirates*
+    
+    Download PDF Ecosystem Report
+    
+
+### **Keynote Panels & Video Appearances**
+
+- **Industry Panels:** AIM Summit (VC Allocation Strategies w/ Noor Sweid), TIED Dubai Conference, Zayed University Entrepreneurship Panel Series, Luma / CODE *Coffee with Clara* GTM Sessions.
+- **Video Media:** Techstars Dubai & MENA Overview | VC Portfolio Insights | Ecosystem Keynote | Ramzy Ismail Leadership Feature | Demo Day Highlights
+
+## 6. Board Governance & Community Leadership
+
+- **Read To Them Inc.** | *Board Director* — Served on the Board of Directors for a 501(c)(3) literacy non-profit expanding family literacy programs across school districts nationwide. (ReadToThem.org) | (ProPublica Record)
+- **Yale SOM Pre-MBA Leadership Program** | *Advisory Board Member* — Supported alumni engagement, mentorship, and pipeline development for emerging executive talent.
+- **VCU Innovation & Tech Transfer** | *Advisor & Mentor* — Coached university commercialization teams on spinning out research IP into scalable tech startups.
+- **Techfugees Dubai** | *Community Lead* — Organized regional hackathons and build events to deliver digital tools and assistance for displaced populations.
+- **Regional Acceleration (Startup Virginia, RVA Works, Startup Weekend)** | *Advisor & Global Facilitator* — Mentored early-stage Richmond founders and facilitated Techstars Startup Weekend events across the US and Middle East.
+
